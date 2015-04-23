@@ -1,0 +1,325 @@
+//Imports
+@import url(http://meyerweb.com/eric/tools/css/reset/reset.css);
+@import url(http://fonts.googleapis.com/css?family=Lato|Open+Sans:400italic,700italic,400,700);
+
+//Colors
+$background-color: #FDFDFD;
+$text-color: rgba(0, 0, 0, 0.87);
+
+$primary-light: #C8E6C9; //Green 100
+$primary: #4CAF50; //Green 500
+$primary-dark: #1B5E20; //Green 900
+
+$secondary-light: #40C4FF; //Light Blue A200
+$secondary: #00B0FF; //Light Blue A400
+$secondary-dark: #0091EA; //Light Blue A700
+
+$red: #F55336; //Red 500
+
+//Sizes
+$max-page-width: 1280px;
+$header-height: 100px;
+$main-padding: 0.5em 1em 0.5em 1em;
+
+//Fonts
+$lato: 'Lato', sans-serif;
+$open-sans: 'Open Sans', sans-serif;
+
+//Breakpoints
+$small-mobile: 480px;
+
+//Mixins
+@mixin gradient-line {
+  content: "";
+  position: relative;
+  background: linear-gradient(to right, $background-color 0%, $secondary-dark 50%, $background-color 100%);
+  display: block;
+  height: 1px;
+}
+
+@mixin center-small {
+  @media all and (max-width: $small-mobile) {
+    max-width: 100%;
+    float: none;
+    margin: 0.2em auto 0.4em auto;
+  }
+}
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+  font-family: $open-sans;
+}
+
+#wrapper {
+  margin: auto;
+  max-width: $max-page-width;
+  width: 100%;
+}
+
+header {
+  background-color: $primary-light;
+  height: $header-height;
+
+  h1 {
+    color: $primary-dark;
+    line-height: $header-height;
+    text-align: center;
+    font: {
+      family: $lato;
+      size: 3em;
+    }
+  }
+}
+
+nav {
+  &:before, &:after {
+    @include gradient-line;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    @media all and (max-width: $small-mobile) {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    li {
+      position: relative;
+
+      &:before {
+        content: "";
+        height: 0;
+        width: 80%; //Width Stuff 100%
+        display: block;
+        background-color: $background-color;
+        transition: all 0.5s ease;
+        position: absolute;
+        top: 50%;
+        left: 5%; //Width Stuff X
+        z-index: -1;
+      }
+
+      &:hover {
+        &:before {
+          background-color: $primary;
+          color: $background-color;
+          box-shadow: 0 0 5px $secondary-dark;
+          height: 100%;
+          width: 100%; //Width Stuff X
+          top: 0;
+          left: 0; //Width Stuff X
+        }
+      }
+
+      a {
+        display: block;
+        text-decoration: none;
+        color: $primary;
+        padding: 0.7em;
+        transition: all 0.5s ease;
+        z-index: 1;
+
+        &:hover {
+          color: $background-color;
+        }
+      }
+    }
+  }
+}
+
+main {
+  padding: $main-padding;
+
+  .point-of-information {
+    border: 1px solid $primary-dark;
+    background: $primary-light url(images/POI-question-mark.png) no-repeat left 4px center;
+    padding: 0.35em;
+    max-width: 300px;
+
+    @include center-small;
+
+    p {
+      font-style: italic;
+      font-weight: 400;
+    }
+
+    &:before {
+      content: "Point of Information!";
+      color: $primary-dark;
+      font-weight: bold;
+      line-height: 1.2em;
+    }
+
+    &:hover {
+      box-shadow: 0 0 5px $secondary-dark;
+    }
+  }
+
+  h1 {
+    font: {
+      family: $lato;
+      size: 2em;
+    }
+    text-align: center;
+    color: $primary-dark;
+  }
+
+  img {
+    margin: 0.4em;
+    display: block;
+    height: auto;
+    max-width: 100%;
+
+    &:hover {
+      box-shadow: 0 0 5px $secondary-dark;
+    }
+
+    &.large-image {
+      margin: 0.4em auto 0.6em auto;
+    }
+  }
+
+  article {
+    padding-bottom: 0.4em;
+
+    h2 {
+      font: {
+        family: $lato;
+        size: 1.2em;
+      }
+      padding: 0.5em 0 0.5em 0;
+      color: $primary-dark;
+    }
+
+    > p {
+      line-height: 1.1em;
+      margin: 0 0.2em 0.4em 0.2em;
+
+      @media all and (max-width: $small-mobile) {
+        margin: 0 0 0.4em 0;
+      }
+    }
+
+    a {
+      text-decoration: none;
+      color: $secondary-dark;
+
+      &:hover, &:focus {
+        color: $primary;
+      }
+    }
+
+    ul.list {
+      list-style-type: none;
+      margin: 0 0 0.4em 0.2em;
+
+      li {
+        padding-left: 0;
+
+        &:before {
+          content: "4";
+          font-family: Webdings, sans-serif;
+          color: $secondary;
+        }
+
+        &.yes:before {
+          content: "a";
+          color: $primary;
+        }
+
+        &.no:before {
+          content: "r";
+          color: $red; 
+        }
+      }
+    }
+  }
+
+  .tool-tip {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .tab-panels {
+    ul.panel-buttons {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      text-align: center;
+      margin: 0;
+
+      @media all and (max-width: $small-mobile) {
+        flex-direction: column;
+      }
+
+      li {
+        display: block;
+        cursor: pointer;
+        margin: 0 0.4em 0 0;
+        padding: 0.3em;
+        background-color: $secondary-light;
+        transition: all 0.5s ease;
+        border: 1px solid $secondary-dark;
+        border-bottom-width: 0;
+
+        &.active {
+          background-color: $primary-light;
+          border: 1px solid $primary-dark;
+          border-bottom-width: 0;
+        }
+      }
+    }
+
+    div.panels {
+      .panel {
+        display: none;
+        padding: $main-padding;
+        border: 1px solid $primary-dark;
+
+        &.active {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+footer {
+  p {
+    text-align: center;
+    font-style: italic;
+    margin: 0.7em;
+  }
+
+  &:before {
+    @include gradient-line;
+  }
+}
+
+.ui-tooltip {
+  position: absolute;
+  z-index: 9999;
+  max-width: 300px;
+}
+
+.ui-tooltip-content {
+  color: $text-color;
+  border: 1px solid $primary-dark;
+  padding: 0.3em;
+  background-color: $primary-light;
+  font-family: $open-sans;
+}
+
+.float-left {
+  float: left;
+  @include center-small;
+}
+
+.float-right {
+  float: right;
+  @extend .float-left;
+}
