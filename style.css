@@ -88,6 +88,7 @@ main {
     border: 1px solid #1B5E20;
     background: #C8E6C9 url(images/POI-question-mark.png) no-repeat left 4px center;
     padding: 0.35em;
+    margin: 0.2em;
     max-width: 300px; }
     @media all and (max-width: 480px) {
       main .point-of-information {
