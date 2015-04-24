@@ -2,11 +2,12 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/output/script.min.js" />
+        <item url="file://$PROJECT_DIR$/hbhsdebating.github.io/script.min.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/output/script.min.js" />
+      <root url="file://$PROJECT_DIR$/hbhsdebating.github.io/script.min.js" />
     </CLASSES>
     <SOURCES />
   </library>

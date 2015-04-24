@@ -138,6 +138,7 @@ main {
     border: 1px solid $primary-dark;
     background: $primary-light url(images/POI-question-mark.png) no-repeat left 4px center;
     padding: 0.35em;
+    margin: 0.2em;
     max-width: 300px;
 
     @include center-small;
