@@ -1,0 +1,63 @@
+extends template.jade
+
+block title
+   title= title_start + "Tips"
+
+block content
+   h1 Tips
+   article
+      h2 Roles of speakers
+      div.tab-panels
+         ul.panel-buttons
+            li(data-panel="first").active First Speaker
+            li(data-panel="second") Second Speaker
+            li(data-panel="third") Third Speaker
+            li(data-panel="leader") Leader's Reply
+         div.panels
+            div.panel.active#first
+               article
+                  h2 First Speaker
+                  ul
+                     li intro
+                     li definition
+                     li model
+                     li possibly rebuttal
+                     li major points
+            div.panel#second
+               article
+                  h2 Second Speaker
+                  ul
+                     li intro
+                     li rebuttal
+                     li major points
+            div.panel#third
+               article
+                  h2 Third Speaker
+                  ul
+                     li intro
+                     li rebuttal
+            div.panel#leader
+               article
+                  h2 Leader's Reply
+                  ul
+                     li summing up
+   article
+      h2 Signposting
+      ul
+         li content
+   article
+      h2 Points of information
+      ul
+         li content
+   article
+      h2 Teamwork
+      ul
+         li content
+   article
+      h2 Hand Motions
+      ul
+         li content
+   article
+      h2 Transitions
+      ul
+         li content

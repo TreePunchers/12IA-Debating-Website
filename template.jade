@@ -1,10 +1,5 @@
-//
-   Created by Jacob on 5/04/2015.
-
-//Variables
 - var title_start = "HBHS Debating - ";
 
-//Mixins
 mixin poi
    aside(class!="point-of-information "+attributes.class)
       block
@@ -12,19 +7,20 @@ mixin poi
 mixin nav-list
    ul
       li
-         a(href="index.html") Navigation
+         a(href="index.html") Home
       li
-         a(href="index.html") Bar
+         a(href="what.html") What is it?
       li
-         a(href="index.html") Wow Cool
+         a(href="why.html") Why do it?
       li
-         a(href="index.html") Nice Meme
+         a(href="how.html") How to join
+      li
+         a(href="tips.html") Tips
 
 mixin tool-tip(title)
    span.tool-tip(title=title)
       block
 
-//Templates
 doctype html
 html(lang="en")
    head

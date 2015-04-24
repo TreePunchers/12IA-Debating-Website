@@ -1,88 +1,15 @@
-//
-   Created by Jacob on 5/04/2015.
-
 extends template.jade
 
 block title
-   title= title_start + "Index Page"
+   title= title_start + "Home"
 
 block content
-   h1 Index Page
+   h1 HBHS Debating
    article
-      h2 Article heading 1
-      img(src="images/filler-image-1.png" width="300" height="150" alt="filler").float-left
-      p
-         | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel placerat lectus. Pellentesque elementum consectetur iaculis. Aenean dictum mi mattis magna mollis, ut vulputate metus consectetur. Praesent a diam eros. Sed vel sapien vel leo lacinia euismod sit amet eget sapien. Fusce semper magna at dolor maximus, non dignissim purus auctor. Suspendisse id orci ac magna faucibus viverra vel in dolor. Nullam ultricies nunc ipsum. Donec at imperdiet tortor, ut gravida augue. Nullam ultricies, turpis non efficitur fermentum, ante lorem suscipit purus, a rhoncus dui nulla in leo. 
-         +tool-tip("Wow such tooltip, much test")
-            | hmmmm
-      p
-         | Vestibulum sed 
-         a(href="not-a-page.html") lorem id ligula 
-         | hendrerit molestie. Mauris sit amet viverra mi. In pellentesque tellus maximus pulvinar volutpat. Etiam gravida sapien sit amet eros suscipit egestas. Nulla facilisi. Etiam tincidunt neque et porttitor rhoncus. Proin ornare blandit nunc sit amet sollicitudin. Vivamus at lorem diam.
+      h2 What is it?
    article
-      h2 Article heading 2
-      +poi.float-right
-         p Did you know points of information are phrased as questions?
-      p
-         | Nam eu purus erat. Aliquam erat volutpat. Pellentesque nisi elit, laoreet eu faucibus id, sodales quis turpis. Suspendisse potenti. Integer et purus tellus. Curabitur accumsan mauris ut augue suscipit, eget lobortis magna ornare. Duis convallis, velit in semper blandit, dolor velit commodo leo, nec elementum nunc enim ut mi. Donec egestas diam ut lacus congue tempor at vitae dui. Nullam at metus nec lorem pulvinar finibus. 
-         a(href="index.html") In eu turpis vestibulum
-         |, vulputate nisi quis, rutrum lectus. Maecenas at ipsum non velit fringilla facilisis. Maecenas id neque nec tortor bibendum faucibus sit amet vel mi. Praesent efficitur sapien sed nibh commodo tincidunt. Aliquam luctus odio in dignissim tincidunt. Donec molestie pretium est quis scelerisque.
-      p 
-         | Praesent pellentesque pulvinar ligula, nec ornare dolor porta ut. Nullam ullamcorper mattis quam ut congue. Mauris consectetur maximus purus, et vehicula odio pretium eget. Duis pellentesque mi sit amet elit vestibulum, bibendum vehicula orci maximus. Phasellus tincidunt metus tellus, id mattis enim imperdiet sit amet.
-      ul.list
-         li Test
-         li List
-         li Wow
-         li Amazing
-         li.yes Yes
-         li.no No
-         li Maybe
-         li I don't know
-         li Can you repeat the question?
-      p
-         | Suspendisse convallis mi in elit mattis, ac commodo nulla congue. Suspendisse sed mi mi. Vivamus odio sapien, venenatis non ipsum et, elementum dignissim lectus. Sed nisi est, dictum ac ex eget, ultrices tempus nulla. Phasellus eget nulla tempus, pulvinar leo nec, aliquam ex. Praesent blandit quam at risus dignissim feugiat. Sed id rhoncus felis, vitae porta erat.
+      h2 Why do it?
    article
-      h2 Article heading 3
-      img(src="images/filler-image-3.png").large-image
-      p
-         | Vestibulum eget aliquam lacus. Quisque vestibulum commodo gravida. Nullam luctus mauris tortor, quis gravida enim vestibulum ac. Nullam ultrices lacinia mi ac varius. Nam nec eros condimentum velit eleifend elementum. Mauris sed laoreet nibh, dignissim faucibus ex. Nulla eleifend sem ut justo gravida porttitor.
+      h2 How to join
    article
-      h2 Team Roles
-      div.tab-panels
-         ul.panel-buttons
-            li.active(data-panel="panel1") First Speaker
-            li(data-panel="panel2") Second Speaker
-            li(data-panel="panel3") Third Speaker
-            li(data-panel="panel4") Leader's Reply
-         div.panels
-            div.panel.active#panel1
-               article
-                  h2 The Role of First Speaker
-                  p
-                     | Nam in neque id mauris pharetra scelerisque eget sit amet lacus. Vestibulum nec tincidunt purus. Sed metus lorem, iaculis molestie sagittis eget, tempus at est. Donec in ipsum eleifend, efficitur tortor in, viverra lectus. Sed fermentum, nulla eget euismod finibus, felis nunc commodo libero, maximus consectetur leo mi eu odio. In et elementum risus. Integer consectetur scelerisque orci et porta. Donec scelerisque mi et lectus dapibus euismod. Vivamus sed dolor nec arcu dignissim iaculis sed a nibh. 
-                     +tool-tip("Tool tipperino cappuccino please no copy pasterino lmao")
-                        | Sed sed auctor odio
-                     |  Nulla volutpat magna neque, non pellentesque sapien tempor in. Vivamus in mi a velit accumsan tincidunt ut nec enim. Nam porttitor, purus vitae fermentum fringilla, ligula nunc maximus orci, non elementum erat dolor a libero. Nam feugiat bibendum fermentum.
-                  p
-                     | Ut et purus velit. Donec sit amet condimentum orci. Maecenas rutrum facilisis magna at pretium. Mauris facilisis rhoncus purus scelerisque tempor. Nulla vitae sagittis erat. Maecenas cursus enim non enim sodales scelerisque. Nam a porttitor leo, ut convallis metus. Update the page.
-            div.panel#panel2
-               article
-                  h2 The Role of Second Speaker
-                  p
-                     | Donec ut sem placerat, dignissim diam at, suscipit tellus. Vestibulum in laoreet elit, id porta velit. Praesent posuere elementum congue. Quisque dapibus at urna eu dignissim. Fusce vestibulum lorem eget metus consectetur lacinia. Nam in scelerisque eros, ut feugiat dolor. Vivamus tincidunt diam diam, vel gravida eros fringilla ac. Sed suscipit diam ut ultrices luctus. Sed luctus dolor ut sapien aliquet, non laoreet ex consectetur.
-                  p
-                     | Proin eleifend mauris ac purus euismod, nec aliquet tellus euismod. Aenean in elit nisl. Vivamus imperdiet mauris quis tellus egestas lobortis vitae non dolor. Cras ante leo, interdum a nunc in, suscipit fringilla dui. Nam ut tellus id mauris tempus tempus sit amet ut nulla. Vestibulum cursus diam eros, vitae aliquam nisi vehicula vel. Ut ut metus ligula. Morbi in odio nec urna porta pulvinar vel a mauris. Nam ultrices, ante et euismod congue, velit est iaculis risus, pretium placerat felis arcu ut arcu. In hac habitasse platea dictumst. Pellentesque commodo lectus dui, sit amet fermentum justo dapibus nec. In tincidunt volutpat purus, at faucibus magna pulvinar non. Morbi ultrices ligula id dui dignissim finibus. Curabitur vitae sapien in velit posuere euismod. Pellentesque nec bibendum massa.
-            div.panel#panel3
-               article
-                  h2 The Role of Third Speaker
-                  p
-                     | Curabitur elementum ac orci et iaculis. Nunc et lacinia justo. Quisque ut ante augue. Aliquam erat volutpat. Nulla non consectetur sapien, quis mattis ligula. Morbi porta vehicula mi, id gravida mauris pharetra euismod. Maecenas commodo eget metus sit amet lobortis. Aenean eget arcu aliquam sem viverra lobortis vehicula eget augue. Aliquam fringilla ipsum et dolor varius ultrices. Duis congue nunc dolor, quis condimentum magna semper id. Sed convallis accumsan nisi ut bibendum. Vivamus scelerisque consectetur ex, nec volutpat mi. Ut eu fermentum nibh. Ut urna lacus, malesuada at semper quis, condimentum ut ligula. Curabitur a gravida nulla.
-                  p
-                     | Integer velit odio, faucibus id quam in, fermentum varius est. Suspendisse eu porta tortor, et ornare elit. Etiam vel eros eros. In viverra ornare tincidunt. Curabitur scelerisque rutrum sollicitudin. Nunc ac dictum purus. Duis rutrum, sem a scelerisque pulvinar, ligula tellus accumsan orci, in lobortis leo mi nec erat. Phasellus ac sem at elit pulvinar gravida. Donec rhoncus tristique dui nec egestas. Donec egestas mi quis ante luctus, vel eleifend ante dapibus. Sed metus dolor, hendrerit quis euismod quis, faucibus non nisl. Aenean egestas vitae velit vel eleifend.
-            div.panel#panel4
-               article
-                  h2 The Role of the Leader's Reply
-                  p
-                     | Pellentesque molestie ex turpis, placerat volutpat quam porta eu. Nam sodales finibus nisi, id faucibus massa facilisis id. Proin pellentesque ac sapien et pellentesque. Morbi quis velit dolor. Proin ut tellus sed nunc lacinia finibus vitae at purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut non aliquet neque. Aliquam ultricies condimentum ligula non molestie. Mauris venenatis mi mauris, sed sagittis tellus volutpat sed. Donec nec mi vel magna suscipit consectetur. Phasellus laoreet ex ac nisi laoreet, eu gravida mauris scelerisque. Morbi auctor rutrum tortor ut venenatis. Pellentesque condimentum pharetra dictum. Etiam euismod sem vel lacus fringilla hendrerit. Curabitur tincidunt tortor sit amet lorem vestibulum condimentum nec nec magna.
-                  p
-                     | Donec eu nulla nec augue porta hendrerit eu vitae nulla. Praesent ultricies sed augue vel iaculis. Ut tellus justo, congue a mauris sagittis, fermentum convallis tortor. Maecenas vitae nisi elit. Fusce ut scelerisque orci. Nunc maximus mi lectus. Nunc eget orci massa. Fusce eget tincidunt justo.
+      h2 Tips
