@@ -1,6 +1,6 @@
 //Imports
-@import url(http://meyerweb.com/eric/tools/css/reset/reset.css);
-@import url(http://fonts.googleapis.com/css?family=Lato|Open+Sans:400italic,700italic,400,700);
+@import url(//meyerweb.com/eric/tools/css/reset/reset.css);
+@import url(//fonts.googleapis.com/css?family=Lato|Open+Sans:400italic,700italic,400,700);
 
 //Colors
 $background-color: #FDFDFD;
@@ -81,6 +81,7 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    list-style-type: none;
 
     @media all and (max-width: $small-mobile) {
       flex-direction: column;
