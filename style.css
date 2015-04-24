@@ -11,7 +11,7 @@ body {
   width: 100%; }
 
 header {
-  background-color: #C8E6C9;
+  background-color: #A5D6A7;
   height: 100px; }
   header h1 {
     color: #1B5E20;
@@ -54,23 +54,19 @@ nav ul {
     nav ul li:before {
       content: "";
       height: 0;
-      width: 80%;
+      width: 100%;
       display: block;
       background-color: #FDFDFD;
       -webkit-transition: all 0.5s ease;
               transition: all 0.5s ease;
       position: absolute;
       top: 50%;
-      left: 5%;
       z-index: -1; }
     nav ul li:hover:before {
       background-color: #4CAF50;
       color: #FDFDFD;
-      box-shadow: 0 0 5px #0091EA;
       height: 100%;
-      width: 100%;
-      top: 0;
-      left: 0; }
+      top: 0; }
     nav ul li a {
       display: block;
       text-decoration: none;
@@ -86,7 +82,7 @@ main {
   padding: 0.5em 1em 0.5em 1em; }
   main .point-of-information {
     border: 1px solid #1B5E20;
-    background: #C8E6C9 url(images/POI-question-mark.png) no-repeat left 4px center;
+    background: #A5D6A7 url(images/POI-question-mark.png) no-repeat left 4px center;
     padding: 0.35em;
     margin: 0.2em;
     max-width: 300px; }
@@ -103,8 +99,6 @@ main {
       color: #1B5E20;
       font-weight: bold;
       line-height: 1.2em; }
-    main .point-of-information:hover {
-      box-shadow: 0 0 5px #0091EA; }
   main h1 {
     font-family: "Lato", sans-serif;
     font-size: 2em;
@@ -115,8 +109,6 @@ main {
     display: block;
     height: auto;
     max-width: 100%; }
-    main img:hover {
-      box-shadow: 0 0 5px #0091EA; }
     main img.large-image {
       margin: 0.4em auto 0.6em auto; }
   main article {
@@ -189,7 +181,7 @@ main {
       border: 1px solid #0091EA;
       border-bottom-width: 0; }
       main .tab-panels ul.panel-buttons li.active {
-        background-color: #C8E6C9;
+        background-color: #A5D6A7;
         border: 1px solid #1B5E20;
         border-bottom-width: 0; }
   main .tab-panels div.panels .panel {
@@ -220,7 +212,7 @@ footer:before {
   color: rgba(0, 0, 0, 0.87);
   border: 1px solid #1B5E20;
   padding: 0.3em;
-  background-color: #C8E6C9;
+  background-color: #A5D6A7;
   font-family: "Open Sans", sans-serif; }
 
 .float-left, .float-right {
@@ -233,5 +225,8 @@ footer:before {
 
 .float-right {
   float: right; }
+
+.ui-helper-hidden-accessible {
+  display: none; }
 
 /*# sourceMappingURL=style.css.map */

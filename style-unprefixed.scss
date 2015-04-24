@@ -6,7 +6,7 @@
 $background-color: #FDFDFD;
 $text-color: rgba(0, 0, 0, 0.87);
 
-$primary-light: #C8E6C9; //Green 100
+$primary-light: #A5D6A7; //Green 200
 $primary: #4CAF50; //Green 500
 $primary-dark: #1B5E20; //Green 900
 
@@ -93,13 +93,12 @@ nav {
       &:before {
         content: "";
         height: 0;
-        width: 80%; //Width Stuff 100%
+        width: 100%;
         display: block;
         background-color: $background-color;
         transition: all 0.5s ease;
         position: absolute;
         top: 50%;
-        left: 5%; //Width Stuff X
         z-index: -1;
       }
 
@@ -107,11 +106,8 @@ nav {
         &:before {
           background-color: $primary;
           color: $background-color;
-          box-shadow: 0 0 5px $secondary-dark;
           height: 100%;
-          width: 100%; //Width Stuff X
           top: 0;
-          left: 0; //Width Stuff X
         }
       }
 
@@ -154,10 +150,6 @@ main {
       font-weight: bold;
       line-height: 1.2em;
     }
-
-    &:hover {
-      box-shadow: 0 0 5px $secondary-dark;
-    }
   }
 
   h1 {
@@ -174,10 +166,6 @@ main {
     display: block;
     height: auto;
     max-width: 100%;
-
-    &:hover {
-      box-shadow: 0 0 5px $secondary-dark;
-    }
 
     &.large-image {
       margin: 0.4em auto 0.6em auto;
@@ -323,4 +311,8 @@ footer {
 .float-right {
   float: right;
   @extend .float-left;
+}
+
+.ui-helper-hidden-accessible {
+  display: none;
 }
