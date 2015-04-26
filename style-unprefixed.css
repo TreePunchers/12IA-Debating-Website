@@ -163,7 +163,8 @@ main {
 footer p {
   text-align: center;
   font-style: italic;
-  margin: 0.7em; }
+  margin: 0.7em;
+  color: #4CAF50; }
 footer:before {
   content: "";
   position: relative;
