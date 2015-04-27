@@ -45,6 +45,11 @@ $small-mobile: 480px;
   }
 }
 
+html {
+  overflow-y: scroll;
+  //height: 100%;
+}
+
 body {
   background-color: $background-color;
   color: $text-color;
@@ -224,7 +229,7 @@ main {
 
         &.no:before {
           content: "r";
-          color: $red; 
+          color: $red;
         }
       }
     }
@@ -318,4 +323,8 @@ footer {
 
 .ui-helper-hidden-accessible {
   display: none;
+}
+
+strong {
+  font-weight: bold;
 }

@@ -1,5 +1,8 @@
 @import url(http://meyerweb.com/eric/tools/css/reset/reset.css);
 @import url(https://fonts.googleapis.com/css?family=Lato|Open+Sans:400italic,700italic,400,700);
+html {
+  overflow-y: scroll; }
+
 body {
   background-color: #FDFDFD;
   color: rgba(0, 0, 0, 0.87);
@@ -231,5 +234,8 @@ footer:before {
 
 .ui-helper-hidden-accessible {
   display: none; }
+
+strong {
+  font-weight: bold; }
 
 /*# sourceMappingURL=style.css.map */
