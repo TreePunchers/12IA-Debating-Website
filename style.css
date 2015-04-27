@@ -11,7 +11,7 @@ body {
   width: 100%; }
 
 header {
-  background-color: #A5D6A7;
+  background: #A5D6A7 url(images/banner.png) center center;
   height: 100px; }
   header h1 {
     color: #1B5E20;

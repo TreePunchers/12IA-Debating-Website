@@ -58,7 +58,7 @@ body {
 }
 
 header {
-  background-color: $primary-light;
+  background: $primary-light url(images/banner.png) center center;
   height: $header-height;
 
   h1 {
