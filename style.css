@@ -232,4 +232,7 @@ footer:before {
 .ui-helper-hidden-accessible {
   display: none; }
 
+strong {
+  font-weight: bold; }
+
 /*# sourceMappingURL=style.css.map */

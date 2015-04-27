@@ -224,7 +224,7 @@ main {
 
         &.no:before {
           content: "r";
-          color: $red; 
+          color: $red;
         }
       }
     }
@@ -318,4 +318,8 @@ footer {
 
 .ui-helper-hidden-accessible {
   display: none;
+}
+
+strong {
+  font-weight: bold;
 }
