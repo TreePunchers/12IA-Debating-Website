@@ -18,7 +18,7 @@ header {
     line-height: 100px;
     text-align: center;
     font-family: "Lato", sans-serif;
-    font-size: 3em; }
+    font-size: 3.5em; }
 
 nav:before, nav:after {
   content: "";
@@ -63,7 +63,8 @@ nav ul {
         color: #FDFDFD; }
 
 main {
-  padding: 0.5em 1em 0.5em 1em; }
+  padding: 0.5em 1em 0.5em 1em;
+  display: block; }
   main .point-of-information {
     border: 1px solid #1B5E20;
     background: #A5D6A7 url(images/POI-question-mark.png) no-repeat left 4px center;

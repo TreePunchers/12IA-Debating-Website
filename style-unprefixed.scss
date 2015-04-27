@@ -67,7 +67,7 @@ header {
     text-align: center;
     font: {
       family: $lato;
-      size: 3em;
+      size: 3.5em;
     }
   }
 }
@@ -130,6 +130,7 @@ nav {
 
 main {
   padding: $main-padding;
+  display: block; //For everyone's favourite browser
 
   .point-of-information {
     border: 1px solid $primary-dark;
