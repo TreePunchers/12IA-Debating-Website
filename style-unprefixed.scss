@@ -137,28 +137,6 @@ main {
   padding: $main-padding;
   display: block; //For everyone's favourite browser
 
-  .point-of-information {
-    border: 1px solid $primary-dark;
-    background: $primary-light url(images/POI-question-mark.png) no-repeat left 4px center;
-    padding: 0.35em;
-    margin: 0.2em;
-    max-width: 300px;
-
-    @include center-small;
-
-    p {
-      font-style: italic;
-      font-weight: 400;
-    }
-
-    &:before {
-      content: "Point of Information!";
-      color: $primary-dark;
-      font-weight: bold;
-      line-height: 1.2em;
-    }
-  }
-
   h1 {
     font: {
       family: $lato;
@@ -181,6 +159,7 @@ main {
 
   article {
     padding-bottom: 0.4em;
+    overflow: auto;
 
     h2 {
       font: {
@@ -255,12 +234,20 @@ main {
       li {
         display: block;
         cursor: pointer;
-        margin: 0 0.4em 0 0;
+        margin-right: 0.4em;
         padding: 0.3em;
         background-color: $secondary-light;
-        transition: all 0.5s ease;
         border: 1px solid $secondary-dark;
         border-bottom-width: 0;
+        transition: background-color 0.5s ease, border 0.5s ease;
+
+        &:last-child {
+          margin-right: 0;
+        }
+
+        @media all and (max-width: $small-mobile) {
+          margin: 0;
+        }
 
         &.active {
           background-color: $primary-light;
@@ -297,6 +284,29 @@ footer {
   }
 }
 
+.point-of-information {
+  border: 1px solid $primary-dark;
+  background: $primary-light url(images/POI-question-mark.png) no-repeat left 4px center;
+  padding: 0.35em;
+  margin: 0.2em;
+  max-width: 300px;
+  display: inline-block;
+
+  @include center-small;
+
+  p {
+    font-style: italic;
+    font-weight: 400;
+  }
+
+  &:before {
+    content: "Point of Information!";
+    color: $primary-dark;
+    font-weight: bold;
+    line-height: 1.2em;
+  }
+}
+
 .ui-tooltip {
   position: absolute;
   z-index: 9999;
@@ -318,7 +328,7 @@ footer {
 
 .float-right {
   float: right;
-  @extend .float-left;
+  @include center-small;
 }
 
 .ui-helper-hidden-accessible {
