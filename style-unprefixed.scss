@@ -307,6 +307,23 @@ footer {
   }
 }
 
+.index-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: auto;
+
+  article {
+    overflow: visible;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 250px;
+    text-align: center;
+    margin: 0.3em;
+  }
+}
+
 .ui-tooltip {
   position: absolute;
   z-index: 9999;
@@ -329,6 +346,17 @@ footer {
 .float-right {
   float: right;
   @include center-small;
+}
+
+.center {
+  float: none;
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+}
+
+img {
+  display: inline-block;
 }
 
 .ui-helper-hidden-accessible {

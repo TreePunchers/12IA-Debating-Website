@@ -22,6 +22,11 @@ mixin tool-tip(title)
    span.tool-tip(title=title)
       block
 
+mixin image(src, width, height, href)
+   - href = href || src
+   a(href=href, class != attributes.class)
+      img(src=src, width=width, height=height)
+
 doctype html
 html(lang="en")
    head
