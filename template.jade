@@ -25,7 +25,7 @@ mixin tool-tip(title)
 mixin image(src, width, height, title, href)
    - href = href || src
    a(href=href, title=title, class != attributes.class)
-      img(src=src, width=width, height=height)
+      img(src=src, width=width, height=height, alt=title)
 
 doctype html
 html(lang="en")
