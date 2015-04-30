@@ -1,9 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57294add-f6af-4a36-8457-0b35cccb4fc3" name="Default" comment="additional content + index-flex">
+    <list default="true" id="57294add-f6af-4a36-8457-0b35cccb4fc3" name="Default" comment="massive amounts of content and images">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1960-debating.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/1960-debating.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/1960-debating.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/1960-debating.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/UN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/UN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/UN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/UN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/champions.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/champions.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/champions.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/champions.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/juniors-2013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/juniors-2013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/juniors-2013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/juniors-2013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prep.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/prep.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/prep.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/prep.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/seniors-2013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/seniors-2013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/seniors-2013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/seniors-2013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/speaking.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/speaking.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/speaking.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/speaking.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/student-debate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/student-debate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/student-debate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/student-debate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/teacher-debate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/teacher-debate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/teacher-debate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/teacher-debate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/teams-meet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/teams-meet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/teams-meet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/teams-meet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/thomas-simpson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full/thomas-simpson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/thomas-simpson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/images/full/thomas-simpson.jpg" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\images\filler-image-0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\images\filler-image-1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\images\filler-image-2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\images\filler-image-3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\images\tool-tip-question-mark.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\output\images\filler-image-0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\output\images\filler-image-1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\output\images\filler-image-2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\output\images\filler-image-3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\WebStorm 10.0\debating2\output\images\tool-tip-question-mark.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output" afterPath="$PROJECT_DIR$/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/how.html" afterPath="$PROJECT_DIR$/output/how.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/how.jade" afterPath="$PROJECT_DIR$/how.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/index.html" afterPath="$PROJECT_DIR$/output/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.jade" afterPath="$PROJECT_DIR$/index.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style-unprefixed.css.map" afterPath="$PROJECT_DIR$/style-unprefixed.css.map" />
@@ -13,6 +73,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/style.min.css" afterPath="$PROJECT_DIR$/output/style.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template.jade" afterPath="$PROJECT_DIR$/template.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tips.html" afterPath="$PROJECT_DIR$/output/tips.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tips.jade" afterPath="$PROJECT_DIR$/tips.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/what.html" afterPath="$PROJECT_DIR$/output/what.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/what.jade" afterPath="$PROJECT_DIR$/what.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/why.html" afterPath="$PROJECT_DIR$/output/why.html" />
@@ -41,33 +103,25 @@
       <file leaf-file-name="style-unprefixed.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style-unprefixed.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.615385">
-              <caret line="322" column="18" selection-start-line="322" selection-start-column="18" selection-end-line="322" selection-end-column="18" />
+            <state vertical-scroll-proportion="-16.346153">
+              <caret line="156" column="5" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
               <folding>
-                <element signature="e#738#919#0" expanded="false" />
                 <element signature="e#1226#1290#0" expanded="false" />
                 <element signature="e#1299#1548#0" expanded="false" />
-                <element signature="e#2554#4974#0" expanded="false" />
-                <element signature="e#4983#5130#0" expanded="false" />
+                <element signature="e#1554#2547#0" expanded="false" />
+                <element signature="e#5069#5216#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jade" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.79731995">
-              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filler-image-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output/images/filler-image-1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -75,7 +129,47 @@
         <entry file="file://$PROJECT_DIR$/template.jade">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+              <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tips.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tips.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="87" column="44" selection-start-line="87" selection-start-column="44" selection-end-line="87" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.19598">
+              <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="what.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/what.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="94" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="why.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/why.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="133" selection-start-line="12" selection-start-column="133" selection-end-line="12" selection-end-column="133" />
               <folding />
             </state>
           </provider>
@@ -104,17 +198,18 @@
         <option value="$PROJECT_DIR$/output/test.html" />
         <option value="$PROJECT_DIR$/test.jade" />
         <option value="$PROJECT_DIR$/output/script.js" />
-        <option value="$PROJECT_DIR$/how.jade" />
         <option value="$PROJECT_DIR$/output/how.html" />
         <option value="$PROJECT_DIR$/evidence/sources.txt" />
         <option value="$PROJECT_DIR$/html5shiv.js" />
-        <option value="$PROJECT_DIR$/tips.jade" />
         <option value="$PROJECT_DIR$/script.js" />
-        <option value="$PROJECT_DIR$/what.jade" />
-        <option value="$PROJECT_DIR$/why.jade" />
         <option value="$PROJECT_DIR$/template.jade" />
-        <option value="$PROJECT_DIR$/style-unprefixed.scss" />
+        <option value="$PROJECT_DIR$/how.jade" />
+        <option value="$PROJECT_DIR$/why.jade" />
         <option value="$PROJECT_DIR$/index.jade" />
+        <option value="$PROJECT_DIR$/what.jade" />
+        <option value="$PROJECT_DIR$/style-unprefixed.scss" />
+        <option value="$PROJECT_DIR$/tips.jade" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -131,6 +226,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -186,105 +282,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style-unprefixed.scss" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evidence" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debating2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project">
           <PATH>
@@ -337,6 +334,55 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debating2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debating2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debating2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debating2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debating2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style-unprefixed.scss" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debating2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debating2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="output" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,14 +419,14 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Documents\WebStorm 10.0\debating2\output\images" />
-      <recent name="D:\Documents\WebStorm 10.0\debating2\output" />
       <recent name="D:\Documents\WebStorm 10.0\debating2\images" />
+      <recent name="D:\Documents\WebStorm 10.0\debating2\output" />
       <recent name="D:\Documents\WebStorm 10.0\debating2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\WebStorm 10.0\debating2\output\images" />
       <recent name="D:\Documents\WebStorm 10.0\debating2\resources" />
       <recent name="D:\Documents\WebStorm 10.0\debating2" />
-      <recent name="D:\Documents\WebStorm 10.0\debating2\output\images" />
       <recent name="D:\Documents\WebStorm 10.0\debating2\output" />
     </key>
   </component>
@@ -558,19 +604,24 @@
       <option name="project" value="LOCAL" />
       <updated>1430250384696</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="additional content + index-flex">
+      <created>1430302903579</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1430302903579</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27966103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39767933" sideWeight="0.5042373" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33476394" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -582,6 +633,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -629,7 +681,9 @@
     <MESSAGE value="added evidence to gitignore and moved files&#10;" />
     <MESSAGE value="additional content" />
     <MESSAGE value="additional content + index-flex" />
-    <option name="LAST_COMMIT_MESSAGE" value="additional content + index-flex" />
+    <MESSAGE value="index-flex tweaks" />
+    <MESSAGE value="massive amounts of content and images" />
+    <option name="LAST_COMMIT_MESSAGE" value="massive amounts of content and images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -639,26 +693,45 @@
     <entry file="file://$PROJECT_DIR$/style-unprefixed.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
           <folding>
-            <element signature="e#738#919#0" expanded="false" />
             <element signature="e#1226#1290#0" expanded="false" />
             <element signature="e#1299#1548#0" expanded="false" />
-            <element signature="e#2554#4974#0" expanded="false" />
-            <element signature="e#4983#5130#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5069#5216#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/POI-question-mark.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="128" column="37" selection-start-line="128" selection-start-column="37" selection-end-line="128" selection-end-column="37" />
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tips.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/what.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="94" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -682,11 +755,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
-            <element signature="e#738#919#0" expanded="false" />
             <element signature="e#1226#1290#0" expanded="false" />
             <element signature="e#1299#1548#0" expanded="false" />
-            <element signature="e#2554#4974#0" expanded="false" />
-            <element signature="e#4983#5130#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5069#5216#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -723,11 +795,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="148" column="25" selection-start-line="148" selection-start-column="25" selection-end-line="148" selection-end-column="25" />
           <folding>
-            <element signature="e#738#919#0" expanded="false" />
             <element signature="e#1226#1290#0" expanded="false" />
             <element signature="e#1299#1548#0" expanded="false" />
-            <element signature="e#2554#4974#0" expanded="false" />
-            <element signature="e#4983#5130#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5069#5216#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -759,11 +830,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
           <folding>
-            <element signature="e#738#919#0" expanded="false" />
             <element signature="e#1226#1290#0" expanded="false" />
             <element signature="e#1299#1548#0" expanded="false" />
-            <element signature="e#2554#4974#0" expanded="false" />
-            <element signature="e#4983#5130#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5069#5216#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -803,11 +873,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
-            <element signature="e#738#919#0" expanded="false" />
             <element signature="e#1226#1290#0" expanded="false" />
             <element signature="e#1299#1548#0" expanded="false" />
-            <element signature="e#2554#4974#0" expanded="false" />
-            <element signature="e#4983#5130#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5069#5216#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -821,35 +890,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style-unprefixed.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css.map">
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css.map">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
         </state>
       </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/POI-question-mark.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/tool-tip-question-mark.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/watcherTasks.xml">
@@ -930,31 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54214126">
           <caret line="0" column="2596" selection-start-line="0" selection-start-column="2596" selection-end-line="0" selection-end-column="2596" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/how.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33257142">
-          <caret line="152" column="39" selection-start-line="152" selection-start-column="39" selection-end-line="152" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/what.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="414" selection-start-line="14" selection-start-column="414" selection-end-line="14" selection-end-column="414" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,35 +999,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/why.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/images/filler-image-0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20326087">
           <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="262" column="0" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tips.jade">
+    <entry file="file://$PROJECT_DIR$/how.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26327434">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.47013274">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/teams-meet.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/student-debate.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/why.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="133" selection-start-line="12" selection-start-column="133" selection-end-line="12" selection-end-column="133" />
           <folding />
         </state>
       </provider>
@@ -998,44 +1046,52 @@
     <entry file="file://$PROJECT_DIR$/template.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/what.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="94" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style-unprefixed.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.615385">
-          <caret line="322" column="18" selection-start-line="322" selection-start-column="18" selection-end-line="322" selection-end-column="18" />
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="156" column="5" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
           <folding>
-            <element signature="e#738#919#0" expanded="false" />
             <element signature="e#1226#1290#0" expanded="false" />
             <element signature="e#1299#1548#0" expanded="false" />
-            <element signature="e#2554#4974#0" expanded="false" />
-            <element signature="e#4983#5130#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5069#5216#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/images/filler-image-3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/images/filler-image-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/images/filler-image-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.jade">
+    <entry file="file://$PROJECT_DIR$/tips.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79731995">
-          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="44" selection-start-line="87" selection-start-column="44" selection-end-line="87" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.19598">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
           <folding />
         </state>
       </provider>

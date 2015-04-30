@@ -22,9 +22,9 @@ mixin tool-tip(title)
    span.tool-tip(title=title)
       block
 
-mixin image(src, width, height, href)
+mixin image(src, width, height, title, href)
    - href = href || src
-   a(href=href, class != attributes.class)
+   a(href=href, title=title, class != attributes.class)
       img(src=src, width=width, height=height)
 
 doctype html

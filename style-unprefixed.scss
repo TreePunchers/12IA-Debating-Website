@@ -155,6 +155,11 @@ main {
     &.large-image {
       margin: 0.4em auto 0.6em auto;
     }
+
+    //Stupid CSS problems
+    @media all and (max-width: $small-mobile) {
+      margin: 0.4em auto;
+    }
   }
 
   article {
@@ -216,7 +221,6 @@ main {
 
   .tool-tip {
     text-decoration: underline;
-    cursor: pointer;
   }
 
   .tab-panels {
@@ -288,7 +292,7 @@ footer {
   border: 1px solid $primary-dark;
   background: $primary-light url(images/POI-question-mark.png) no-repeat left 4px center;
   padding: 0.35em;
-  margin: 0.2em;
+  margin: 0.2em 0.4em;
   max-width: 300px;
   display: inline-block;
 
@@ -307,20 +311,26 @@ footer {
   }
 }
 
-.index-flex {
+.adjustive-flex {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   flex-wrap: wrap;
   margin: auto;
+  max-width: 100%;
 
   article {
     overflow: visible;
     flex-grow: 1;
     flex-shrink: 1;
-    flex-basis: 250px;
+    flex-basis: 300px;
     text-align: center;
     margin: 0.3em;
+  }
+
+  img {
+    max-width: 95%;
+    margin: 0.4em auto;
   }
 }
 
@@ -349,14 +359,7 @@ footer {
 }
 
 .center {
-  float: none;
   text-align: center;
-  display: inline-block;
-  margin: auto;
-}
-
-img {
-  display: inline-block;
 }
 
 .ui-helper-hidden-accessible {
