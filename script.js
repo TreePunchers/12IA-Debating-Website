@@ -1,7 +1,3 @@
-/**
- * Created by Jacob on 7/04/2015.
- */
-
 $(document).ready(function() {
 
     $('.tab-panels .panel-buttons li').on('click', function() {
