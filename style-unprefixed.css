@@ -117,8 +117,6 @@ main {
         main article ul.list li.no:before {
           content: "r";
           color: #F55336; }
-  main .tool-tip {
-    text-decoration: underline; }
   main .tab-panels ul.panel-buttons {
     display: flex;
     flex-direction: row;
@@ -164,6 +162,9 @@ footer:before {
   background: linear-gradient(to right, #FDFDFD 0%, #0091EA 50%, #FDFDFD 100%);
   display: block;
   height: 1px; }
+
+.tool-tip {
+  text-decoration: underline; }
 
 .point-of-information {
   border: 1px solid #1B5E20;
@@ -240,5 +241,31 @@ footer:before {
 
 strong {
   font-weight: bold; }
+
+::selection {
+  color: #FDFDFD;
+  background-color: #00B0FF; }
+
+@media print {
+  header {
+    display: none; }
+
+  nav {
+    display: none; }
+
+  body {
+    font-family: 'Times New Roman', serif; }
+
+  .tab-panels ul.panel-buttons {
+    display: none !important; }
+  .tab-panels div.panels .panel {
+    display: block !important;
+    border: none !important; }
+
+  .tool-tip {
+    text-decoration: none; }
+    .tool-tip:after {
+      content: " (" attr(title) ")";
+      font-style: italic; } }
 
 /*# sourceMappingURL=style-unprefixed.css.map */

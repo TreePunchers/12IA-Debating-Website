@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57294add-f6af-4a36-8457-0b35cccb4fc3" name="Default" comment="">
+    <list default="true" id="57294add-f6af-4a36-8457-0b35cccb4fc3" name="Default" comment="media print">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output" afterPath="$PROJECT_DIR$/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/index.html" afterPath="$PROJECT_DIR$/output/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.jade" afterPath="$PROJECT_DIR$/index.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tips.html" afterPath="$PROJECT_DIR$/output/tips.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tips.jade" afterPath="$PROJECT_DIR$/tips.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style-unprefixed.css.map" afterPath="$PROJECT_DIR$/style-unprefixed.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style-unprefixed.css" afterPath="$PROJECT_DIR$/style-unprefixed.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style-unprefixed.scss" afterPath="$PROJECT_DIR$/style-unprefixed.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css.map" afterPath="$PROJECT_DIR$/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/style.min.css" afterPath="$PROJECT_DIR$/output/style.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="debating2.iws" />
@@ -28,14 +30,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style-unprefixed.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style-unprefixed.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style-unprefixed.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.91243434">
+              <caret line="396" column="14" selection-start-line="396" selection-start-column="14" selection-end-line="396" selection-end-column="14" />
               <folding>
                 <element signature="e#1226#1290#0" expanded="false" />
-                <element signature="e#5069#5216#0" expanded="false" />
+                <element signature="e#1554#2547#0" expanded="false" />
+                <element signature="e#5018#5165#0" expanded="false" />
+                <element signature="e#5177#5210#0" expanded="false" />
+                <element signature="e#5234#5661#0" expanded="false" />
+                <element signature="e#5679#6010#0" expanded="false" />
+                <element signature="e#6024#6086#0" expanded="false" />
+                <element signature="e#6108#6249#0" expanded="false" />
+                <element signature="e#6263#6306#0" expanded="false" />
+                <element signature="e#6321#6365#0" expanded="false" />
+                <element signature="e#6375#6400#0" expanded="false" />
+                <element signature="e#6431#6451#0" expanded="false" />
+                <element signature="e#6460#6484#0" expanded="false" />
+                <element signature="e#6498#6561#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -55,18 +69,8 @@
         <entry file="file://$PROJECT_DIR$/how.jade">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="200" selection-start-line="10" selection-start-column="200" selection-end-line="10" selection-end-column="200" />
-              <folding>
-                <marker date="1430633958182" expanded="true" signature="28:72" placeholder="..." />
-                <marker date="1430633958182" expanded="true" signature="79:766" placeholder="..." />
-                <marker date="1430633958182" expanded="true" signature="125:351" placeholder="..." />
-                <marker date="1430633958182" expanded="true" signature="150:351" placeholder="..." />
-                <marker date="1430633958182" expanded="true" signature="358:766" placeholder="..." />
-                <marker date="1430633958182" expanded="true" signature="387:574" placeholder="..." />
-                <marker date="1430633958182" expanded="true" signature="523:574" placeholder="..." />
-                <marker date="1430633958182" expanded="true" signature="588:766" placeholder="..." />
-                <marker date="1430633958182" expanded="true" signature="724:766" placeholder="..." />
-              </folding>
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tips.jade" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tips.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tips.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39159292">
-              <caret line="81" column="400" selection-start-line="81" selection-start-column="400" selection-end-line="81" selection-end-column="400" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -96,16 +100,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="19" column="94" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
-              <folding>
-                <marker date="1430727533074" expanded="true" signature="28:72" placeholder="..." />
-                <marker date="1430727533074" expanded="true" signature="79:1520" placeholder="..." />
-                <marker date="1430727533074" expanded="true" signature="122:823" placeholder="..." />
-                <marker date="1430727533074" expanded="true" signature="168:280" placeholder="..." />
-                <marker date="1430727533074" expanded="true" signature="288:823" placeholder="..." />
-                <marker date="1430727533074" expanded="true" signature="834:1520" placeholder="..." />
-                <marker date="1430727533074" expanded="true" signature="1002:1417" placeholder="..." />
-                <marker date="1430727533074" expanded="true" signature="1425:1520" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,25 +110,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="32" column="93" selection-start-line="32" selection-start-column="93" selection-end-line="32" selection-end-column="93" />
-              <folding>
-                <marker date="1430727577079" expanded="true" signature="28:71" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="78:2534" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="120:515" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="149:459" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="177:459" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="467:515" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="526:872" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="552:872" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="883:1118" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="908:1118" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="1129:2254" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="1158:1390" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="1398:1752" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="1760:2113" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="2121:2254" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="2265:2534" placeholder="..." />
-                <marker date="1430727577079" expanded="true" signature="2304:2534" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -165,7 +142,6 @@
         <option value="$PROJECT_DIR$/evidence/sources.txt" />
         <option value="$PROJECT_DIR$/html5shiv.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/style-unprefixed.scss" />
         <option value="$PROJECT_DIR$/template.jade" />
         <option value="$PROJECT_DIR$/how.jade" />
         <option value="$PROJECT_DIR$/what.jade" />
@@ -173,6 +149,7 @@
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/index.jade" />
         <option value="$PROJECT_DIR$/tips.jade" />
+        <option value="$PROJECT_DIR$/style-unprefixed.scss" />
       </list>
     </option>
   </component>
@@ -246,6 +223,58 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="debating2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="debating2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Custom Project Scope">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="debating2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="debating2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="output">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -316,58 +345,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="evidence" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="debating2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="debating2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Custom Project Scope">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="debating2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="debating2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="output">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -649,7 +626,13 @@
       <option name="project" value="LOCAL" />
       <updated>1430729628883</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="content - based on Mr Brown feedback">
+      <created>1430817625544</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1430817625544</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -658,6 +641,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27966103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39662448" sideWeight="0.5042373" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3343882" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -667,7 +651,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39914164" sideWeight="0.4957627" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -727,7 +710,9 @@
     <MESSAGE value="favicons updated and misc" />
     <MESSAGE value="content corrections" />
     <MESSAGE value="content corrections++" />
-    <option name="LAST_COMMIT_MESSAGE" value="content corrections++" />
+    <MESSAGE value="content - based on Mr Brown feedback" />
+    <MESSAGE value="media print" />
+    <option name="LAST_COMMIT_MESSAGE" value="media print" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -754,16 +739,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="94" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
-          <folding>
-            <marker date="1430727533074" expanded="true" signature="28:72" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="79:1520" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="122:823" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="168:280" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="288:823" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="834:1520" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="1002:1417" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="1425:1520" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -788,7 +764,19 @@
           <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
             <element signature="e#1226#1290#0" expanded="false" />
-            <element signature="e#5069#5216#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5018#5165#0" expanded="false" />
+            <element signature="e#5177#5210#0" expanded="false" />
+            <element signature="e#5234#5661#0" expanded="false" />
+            <element signature="e#5679#6010#0" expanded="false" />
+            <element signature="e#6024#6086#0" expanded="false" />
+            <element signature="e#6108#6249#0" expanded="false" />
+            <element signature="e#6263#6306#0" expanded="false" />
+            <element signature="e#6321#6365#0" expanded="false" />
+            <element signature="e#6375#6400#0" expanded="false" />
+            <element signature="e#6431#6451#0" expanded="false" />
+            <element signature="e#6460#6484#0" expanded="false" />
+            <element signature="e#6498#6561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -826,7 +814,19 @@
           <caret line="148" column="25" selection-start-line="148" selection-start-column="25" selection-end-line="148" selection-end-column="25" />
           <folding>
             <element signature="e#1226#1290#0" expanded="false" />
-            <element signature="e#5069#5216#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5018#5165#0" expanded="false" />
+            <element signature="e#5177#5210#0" expanded="false" />
+            <element signature="e#5234#5661#0" expanded="false" />
+            <element signature="e#5679#6010#0" expanded="false" />
+            <element signature="e#6024#6086#0" expanded="false" />
+            <element signature="e#6108#6249#0" expanded="false" />
+            <element signature="e#6263#6306#0" expanded="false" />
+            <element signature="e#6321#6365#0" expanded="false" />
+            <element signature="e#6375#6400#0" expanded="false" />
+            <element signature="e#6431#6451#0" expanded="false" />
+            <element signature="e#6460#6484#0" expanded="false" />
+            <element signature="e#6498#6561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -859,7 +859,19 @@
           <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
           <folding>
             <element signature="e#1226#1290#0" expanded="false" />
-            <element signature="e#5069#5216#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5018#5165#0" expanded="false" />
+            <element signature="e#5177#5210#0" expanded="false" />
+            <element signature="e#5234#5661#0" expanded="false" />
+            <element signature="e#5679#6010#0" expanded="false" />
+            <element signature="e#6024#6086#0" expanded="false" />
+            <element signature="e#6108#6249#0" expanded="false" />
+            <element signature="e#6263#6306#0" expanded="false" />
+            <element signature="e#6321#6365#0" expanded="false" />
+            <element signature="e#6375#6400#0" expanded="false" />
+            <element signature="e#6431#6451#0" expanded="false" />
+            <element signature="e#6460#6484#0" expanded="false" />
+            <element signature="e#6498#6561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -900,7 +912,19 @@
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
             <element signature="e#1226#1290#0" expanded="false" />
-            <element signature="e#5069#5216#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5018#5165#0" expanded="false" />
+            <element signature="e#5177#5210#0" expanded="false" />
+            <element signature="e#5234#5661#0" expanded="false" />
+            <element signature="e#5679#6010#0" expanded="false" />
+            <element signature="e#6024#6086#0" expanded="false" />
+            <element signature="e#6108#6249#0" expanded="false" />
+            <element signature="e#6263#6306#0" expanded="false" />
+            <element signature="e#6321#6365#0" expanded="false" />
+            <element signature="e#6375#6400#0" expanded="false" />
+            <element signature="e#6431#6451#0" expanded="false" />
+            <element signature="e#6460#6484#0" expanded="false" />
+            <element signature="e#6498#6561#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1062,49 +1086,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style-unprefixed.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#1226#1290#0" expanded="false" />
-            <element signature="e#5069#5216#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/how.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="200" selection-start-line="10" selection-start-column="200" selection-end-line="10" selection-end-column="200" />
-          <folding>
-            <marker date="1430633958182" expanded="true" signature="28:72" placeholder="..." />
-            <marker date="1430633958182" expanded="true" signature="79:766" placeholder="..." />
-            <marker date="1430633958182" expanded="true" signature="125:351" placeholder="..." />
-            <marker date="1430633958182" expanded="true" signature="150:351" placeholder="..." />
-            <marker date="1430633958182" expanded="true" signature="358:766" placeholder="..." />
-            <marker date="1430633958182" expanded="true" signature="387:574" placeholder="..." />
-            <marker date="1430633958182" expanded="true" signature="523:574" placeholder="..." />
-            <marker date="1430633958182" expanded="true" signature="588:766" placeholder="..." />
-            <marker date="1430633958182" expanded="true" signature="724:766" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/what.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="94" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
-          <folding>
-            <marker date="1430727533074" expanded="true" signature="28:72" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="79:1520" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="122:823" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="168:280" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="288:823" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="834:1520" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="1002:1417" placeholder="..." />
-            <marker date="1430727533074" expanded="true" signature="1425:1520" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1112,25 +1098,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="93" selection-start-line="32" selection-start-column="93" selection-end-line="32" selection-end-column="93" />
-          <folding>
-            <marker date="1430727577079" expanded="true" signature="28:71" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="78:2534" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="120:515" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="149:459" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="177:459" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="467:515" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="526:872" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="552:872" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="883:1118" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="908:1118" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="1129:2254" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="1158:1390" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="1398:1752" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="1760:2113" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="2121:2254" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="2265:2534" placeholder="..." />
-            <marker date="1430727577079" expanded="true" signature="2304:2534" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1138,7 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,9 +1127,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tips.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39159292">
-          <caret line="81" column="400" selection-start-line="81" selection-start-column="400" selection-end-line="81" selection-end-column="400" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="38" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style-unprefixed.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.91243434">
+          <caret line="396" column="14" selection-start-line="396" selection-start-column="14" selection-end-line="396" selection-end-column="14" />
+          <folding>
+            <element signature="e#1226#1290#0" expanded="false" />
+            <element signature="e#1554#2547#0" expanded="false" />
+            <element signature="e#5018#5165#0" expanded="false" />
+            <element signature="e#5177#5210#0" expanded="false" />
+            <element signature="e#5234#5661#0" expanded="false" />
+            <element signature="e#5679#6010#0" expanded="false" />
+            <element signature="e#6024#6086#0" expanded="false" />
+            <element signature="e#6108#6249#0" expanded="false" />
+            <element signature="e#6263#6306#0" expanded="false" />
+            <element signature="e#6321#6365#0" expanded="false" />
+            <element signature="e#6375#6400#0" expanded="false" />
+            <element signature="e#6431#6451#0" expanded="false" />
+            <element signature="e#6460#6484#0" expanded="false" />
+            <element signature="e#6498#6561#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

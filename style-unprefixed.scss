@@ -219,10 +219,6 @@ main {
     }
   }
 
-  .tool-tip {
-    text-decoration: underline;
-  }
-
   .tab-panels {
     ul.panel-buttons {
       display: flex;
@@ -286,6 +282,10 @@ footer {
   &:before {
     @include gradient-line;
   }
+}
+
+.tool-tip {
+  text-decoration: underline;
 }
 
 .point-of-information {
@@ -368,4 +368,45 @@ footer {
 
 strong {
   font-weight: bold;
+}
+
+::selection {
+  color: $background-color;
+  background-color: $secondary;
+}
+
+@media print {
+  header {
+    display: none;
+  }
+
+  nav {
+    display: none;
+  }
+
+  body {
+    font-family: 'Times New Roman', serif;
+  }
+
+  .tab-panels {
+    ul.panel-buttons {
+      display: none !important;
+    }
+
+    div.panels {
+      .panel {
+        display: block !important;
+        border: none !important;
+      }
+    }
+  }
+
+  .tool-tip {
+    text-decoration: none;
+
+    &:after {
+      content: " (" attr(title) ")";
+      font-style: italic;
+    }
+  }
 }
